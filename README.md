@@ -9,6 +9,11 @@ Kelompok 7
 
 Cara menjalankan program : masuk ke virtual environment . .venv/Scripts/activate ,kemudian install semua library: pip install -r requirements.txt ,lalu python app.py
 
+Laporan : https://mikroskilacid-my.sharepoint.com/:b:/g/personal/221110261_students_mikroskil_ac_id/ET6AKYkP8vJApFNuEBZxfycBrYrwc1n6mEl9BvQw7iwwPw?e=nePFKe
+
 Video Demo Program : https://mikroskilacid-my.sharepoint.com/:v:/g/personal/221110261_students_mikroskil_ac_id/EcQ2SUCXa5FLqkxobF57wsIBtxTku-EdkkdRMqVLC09OqA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=NzQrjb
 
 Kode Program : https://mikroskilacid-my.sharepoint.com/:u:/g/personal/221110261_students_mikroskil_ac_id/EQAqmc2bTZ9PlM3ST4XrKZUBcUL_gIXOPSf4uzBFZFN6Tg?e=Xn5VPL
+
+
+
